@@ -10,7 +10,7 @@ export default async function Stats() {
 					<div className="mx-auto max-w-2xl lg:max-w-none">
 						<div className="">
 							<h2 className="text-2xl  font-semibold tracking-tight text-black sm:text-2xl">Good
-								Afternoon, wasimysaid</h2>
+								Good afternoon</h2>
 							<div
 								className="mt-4 text-lg leading-8 font-mono text-zinc-500">
 								
